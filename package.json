@@ -1,0 +1,26 @@
+{
+  "name": "gupshup-module-factory",
+  "version": "0.0.1",
+  "description": "Have Modules for Scripting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AgnibhaBose/Gupshup-Module-Factory.git"
+  },
+  "keywords": [
+    "Gupshup",
+    "Module",
+    "Factory",
+    "Module",
+    "Script"
+  ],
+  "author": "agnibha.bose@gupshup.io",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/AgnibhaBose/Gupshup-Module-Factory/issues"
+  },
+  "homepage": "https://github.com/AgnibhaBose/Gupshup-Module-Factory#readme"
+}
